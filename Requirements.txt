@@ -1,0 +1,17 @@
+Requirements:
+
+1.Google Account: to access drive and google colaboratory
+	- Python 3
+	- Jupyter Notebook
+
+2.Libraries used
+	-Keras
+	-Pandas
+	-Numpy
+	-Scikit Leaarn
+	-Matplotlib
+	-Pyprind
+	
+	
+
+
